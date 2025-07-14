@@ -33,7 +33,7 @@ This is a **menu-driven Java console application** for booking cabs, built using
 
 ## 📁 Folder Structure
 
-<img src="projectStructure">
+<img src="https://github.com/SUSHANT7019/cab-booking-console-app-JPA/blob/main/projectStructure.png">
 
 ### 🧾 Prerequisites
 
