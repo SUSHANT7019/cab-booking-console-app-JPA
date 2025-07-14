@@ -74,8 +74,8 @@ This is a **menu-driven Java console application** for booking cabs, built using
 
 
 🧪 Sample Menu Output
-<img src ="output1">
-<img src ="output2">
+<img src ="https://github.com/SUSHANT7019/cab-booking-console-app-JPA/blob/main/output_1.png">
+<img src ="https://github.com/SUSHANT7019/cab-booking-console-app-JPA/blob/main/output_2.png">
 
 
 🙋‍♂️ Author
